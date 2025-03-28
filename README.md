@@ -74,8 +74,8 @@ As informações do grupo são enviadas para a seguinte API REST:
 
 ## 👥 Contribuidores
 
-- [Bruno Antunes]
-- [Rafael Lino]  
+- [Bruno Antunes - RM361584]
+- [Rafael Lino - RM361753]  
 
 ---
 
